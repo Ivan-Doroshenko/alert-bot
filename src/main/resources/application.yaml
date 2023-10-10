@@ -1,0 +1,11 @@
+telegram:
+  bot-username: "crypto_alert_test_task_bot"
+  token: "6532472103:AAGn77E58tVZDyVIXOsW9v1J81IJIDvGMJc"
+  max-users-threshold: 100
+
+crypto:
+  prices-url: "https://api.mexc.com/api/v3/ticker/price"
+  prices-update-delay-in-milliseconds: "10000"
+
+
+
