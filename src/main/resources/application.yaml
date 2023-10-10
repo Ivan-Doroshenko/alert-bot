@@ -1,6 +1,6 @@
 telegram:
   bot-username: "crypto_alert_test_task_bot"
-  token: "6532472103:AAGn77E58tVZDyVIXOsW9v1J81IJIDvGMJc"
+  token: ""
   max-users-threshold: 100
 
 crypto:
